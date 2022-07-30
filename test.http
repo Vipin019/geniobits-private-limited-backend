@@ -1,0 +1,8 @@
+POST http://localhost:4000/api/address
+Content-Type: application/json
+
+{
+    "address": "kakuaraut",
+    "phoneno": "6386977917",
+    "email": "vkpmail019@gmail.com"
+}
